@@ -12,7 +12,7 @@ public class Terrazas_parcial_1 {
     public String terrazas_metodo_saludo( String valor1)
     {
         String saludo=" Soy Juan Pablo Terrazas Mojica "
-                + "Del grupo 3C PARCIAL1 "
+                + "Del grupo 3B PARCIAL1 "
                 + "05/06/2025 "
                 + "Nuestra mayor debilidad radica en renunciar. La forma más segura de tener éxito es intentarlo";
         return saludo;
